@@ -7,7 +7,7 @@ This application allows users to **create, manage, track, and monitor projects**
 
 ## 🚀 Live Demo
 
-🔗 **Deployed URL:** **  
+🔗 **Deployed URL:** https://project-managment-frontend-task.vercel.app
 🔗 **GitHub Repository:** https://github.com/ajps208/project_managment_frontend_task
 
 ---
@@ -26,6 +26,7 @@ This application allows users to **create, manage, track, and monitor projects**
 ## ✨ Features
 
 ### 🔹 Project Management
+
 - Create, edit, and delete projects
 - View all projects in a centralized dashboard
 - Search projects by name or description
@@ -33,16 +34,17 @@ This application allows users to **create, manage, track, and monitor projects**
 - Sort projects by **name**, **due date**, or **priority**
 
 ### 🔹 Task Management
+
 - Add tasks to projects
 - Assign tasks to team members
 - Update task status (Todo / In Progress / Done)
 
-
 ### 🔹 Reminders
+
 - Add reminders with date and description
 
-
 ### 🔹 Dashboard Analytics
+
 - Total projects count
 - Projects in progress
 - Completed projects
@@ -50,6 +52,7 @@ This application allows users to **create, manage, track, and monitor projects**
 - Visual progress indicators
 
 ### 🔹 UI & UX
+
 - Fully responsive layout
 - Dark / Light theme toggle
 - Clean, modern dashboard design
@@ -73,7 +76,6 @@ This application allows users to **create, manage, track, and monitor projects**
 
 ---
 
-
 ## ⚙️ Installation & Setup
 
 ```bash
@@ -88,3 +90,4 @@ npm install
 
 # Run the application
 npm run dev
+```
