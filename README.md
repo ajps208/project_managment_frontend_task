@@ -7,8 +7,9 @@ This application allows users to **create, manage, track, and monitor projects**
 
 ## 🚀 Live Demo
 
-🔗 **Deployed URL:** https://project-managment-frontend-task.vercel.app
+🔗 **Deployed URL:** https://project-managment-frontend-task.vercel.app  
 🔗 **GitHub Repository:** https://github.com/ajps208/project_managment_frontend_task
+
 
 ---
 
