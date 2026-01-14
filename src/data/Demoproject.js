@@ -15,14 +15,15 @@ export const initialProjects = [
     ],
     reminders: [{ id: "r1", date: "2025-01-20", description: "Design Review" }],
   },
+  
    {
     id: "2",
-    name: "Website Redesign",
+    name: "Mobile Redesign",
     description: "Complete overhaul of company website",
     startDate: "2025-01-01",
-    endDate: "2025-03-15",
+    endDate: "2025-03-17",
     status: "In Progress",
-    priority: "High",
+    priority: "Low",
     manager: "John Doe",
     assignees: ["John Doe", "Jane Smith", "Mike Johnson"],
     tasks: [
